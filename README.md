@@ -2,6 +2,14 @@
 
 面向科研工作者的 AI 工具目录。
 
+## Idea
+
+- [co-scientist](https://github.com/raktim-mondol/co-scientist) — 通过多 Agent 生成、验证和演化研究假设，并制定实验方案。`★ 12 · 2026-08-19`
+- [FutureHouse Robin](https://github.com/Future-House/robin) — 面向科学发现的多 Agent 系统，辅助探索研究问题与假设。`★ 685 · 2026-08-27`
+- [GT4SD](https://github.com/GT4SD/gt4sd-core) — 用生成模型和应用接口加速科学发现与假设生成。`★ 377 · 2026-08-20`
+- [HypothesisHub](https://github.com/bhaskatripathi/HypothesisHub) — 从科学文献生成研究问题和可检验假设。`★ 37 · 2026-03-19`
+- [research-gap-finder](https://github.com/LengFeng00/research-gap-finder) — 从文献分析中识别研究空白并生成候选假设。`★ 17 · 2026-08-01`
+
 ## Math
 
 - [Rethlas](https://github.com/frenzymath/Rethlas) — 由生成与验证 Agent 协作完成数学证明推理与校验。`★ 313 · 2026-08-03`
@@ -55,8 +63,9 @@
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) — 覆盖研究构思、检索、写作、评审到定稿的技能套件。`★ 43943 · 2026-08-27`
 - [academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) — 面向 Codex 的原生学术研究技能套件。`★ 9404 · 2026-08-24`
 - [Agent Laboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) — 由多个 Agent 协作完成从文献调研到实验和报告的科研流程。`★ 5810 · 2025-08-20`
-- [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) — 使用 Agent 自动生成、实验和评估科研想法。`★ 7053 · 2025-12-19`
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) — 尝试自动完成从研究想法到论文生成的科研流程。`★ 14260 · 2026-08-19`
+- [InternAgent](https://github.com/InternScience/InternAgent) — 长时自主科研 Agent，覆盖假设生成、算法发现和实验设计。`★ 1415 · 2026-08-26`
+- [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — 面向科研数据库、分析和复杂研究流程的可复用 Agent Skills。`★ 35196 · 2026-08-27`
 - [ResearchClaw](https://github.com/ymx10086/ResearchClaw) — 本地优先的科研工作台，统一论文、工作流、实验和自动化。`★ 313 · 2026-04-04`
 
 ## 说明
