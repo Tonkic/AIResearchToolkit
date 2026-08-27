@@ -63,6 +63,7 @@
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) — 覆盖研究构思、检索、写作、评审到定稿的技能套件。`★ 43943 · 2026-08-27`
 - [academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) — 面向 Codex 的原生学术研究技能套件。`★ 9404 · 2026-08-24`
 - [Agent Laboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) — 由多个 Agent 协作完成从文献调研到实验和报告的科研流程。`★ 5810 · 2025-08-20`
+- [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) — 覆盖研究想法、实验执行和报告生成的自动化科研流程。`★ 7053 · 2025-12-19`
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) — 尝试自动完成从研究想法到论文生成的科研流程。`★ 14260 · 2026-08-19`
 - [InternAgent](https://github.com/InternScience/InternAgent) — 长时自主科研 Agent，覆盖假设生成、算法发现和实验设计。`★ 1415 · 2026-08-26`
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — 面向科研数据库、分析和复杂研究流程的可复用 Agent Skills。`★ 35196 · 2026-08-27`
