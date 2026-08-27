@@ -12,11 +12,15 @@
 - [gs-skills](https://github.com/cookjohn/gs-skills) — 通过 Google Scholar 检索论文、追踪引用并导出到 Zotero。
 - [AnySearch](https://www.anysearch.com/docs) — 为 AI Agent 提供实时网页搜索和全文内容抽取。
 - [instsci](https://github.com/Rimagination/instsci) — 优先开放获取，并复用用户已有机构权限获取订阅论文。
+- [Literature Review Agent](https://github.com/littlelelephant/literature-review-agent) — 通过可审计、可恢复的多代理流程完成证据驱动的文献综述。
+- [LitReviewKit](https://github.com/drgzkr/LitReviewKit) — 从文献检索、筛选到主题综合和 Zotero 管理的综述工作台。
 
 ## Data
 
 - [MinerU](https://github.com/opendatalab/MinerU) — 将 PDF 和 Office 文档解析为适合 LLM 使用的 Markdown 或 JSON。
 - [scansci-pdf](https://github.com/Rimagination/scansci-pdf) — 聚合多种来源和机构访问路径，支持论文 PDF 检索与批量处理。
+- [ResearchPal](https://github.com/Mokshram18Git/Researchpal) — 将研究 PDF 转为可检索、可引用的本地知识库。
+- [Paper Knowledge Base / LitMind](https://github.com/jc3342/LitMind) — 使用 LLM 和 Obsidian 构建可持续积累的论文知识库。
 
 ## Code
 
@@ -54,6 +58,8 @@
 - [academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) — 面向 Codex 的原生学术研究技能套件。
 - [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) — 使用 Agent 自动生成、实验和评估科研想法。
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) — 尝试自动完成从研究想法到论文生成的科研流程。
+- [Agent Laboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) — 由多个 Agent 协作完成从文献调研到实验和报告的科研流程。
+- [ResearchClaw](https://github.com/ymx10086/ResearchClaw) — 本地优先的科研工作台，统一论文、工作流、实验和自动化。
 
 ## 说明
 
