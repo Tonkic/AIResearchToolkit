@@ -21,6 +21,7 @@
 - [instsci](https://github.com/Rimagination/instsci) — 优先开放获取，并复用用户已有机构权限获取订阅论文。`★ 317 · 2026-06-23`
 - [Literature Review Agent](https://github.com/littlelelephant/literature-review-agent) — 通过可审计、可恢复的多代理流程完成证据驱动的文献综述。`★ 76 · 2026-08-02`
 - [LitReviewKit](https://github.com/drgzkr/LitReviewKit) — 从文献检索、筛选到主题综合和 Zotero 管理的综述工作台。`★ 0 · 2026-06-07`
+- [paper-feed](https://github.com/Jarvis-Towne/paper-feed) — 按关键词筛选期刊 RSS，并用 AI 总结后推送到阅读器。`★ 38 · 2026-08-27`
 - [paper-search-cli](https://github.com/dr-dumpling/paper-search-cli) — 面向 Agent 的论文检索、引文扩展、期刊指标和 PDF 发现 CLI。`★ 128 · 2026-06-22`
 
 ## Data
