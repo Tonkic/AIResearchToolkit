@@ -19,7 +19,6 @@
 
 - [MinerU](https://github.com/opendatalab/MinerU) — 将 PDF 和 Office 文档解析为适合 LLM 使用的 Markdown 或 JSON。
 - [ResearchPal](https://github.com/Mokshram18Git/Researchpal) — 将研究 PDF 转为可检索、可引用的本地知识库。
-- [Paper Knowledge Base / LitMind](https://github.com/jc3342/LitMind) — 使用 LLM 和 Obsidian 构建可持续积累的论文知识库。
 - [scansci-pdf](https://github.com/Rimagination/scansci-pdf) — 聚合多种来源和机构访问路径，支持论文 PDF 检索与批量处理。
 
 ## Code
