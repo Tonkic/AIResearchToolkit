@@ -54,6 +54,7 @@
 
 - [Academic Figure Skill](https://github.com/TingxiYu/academic-figure-skill) — 从数据解读到顶刊格式图表生成的科研制图技能。`★ 288 · 2026-07-12`
 - [Auto-Visio-Helper](https://github.com/0Antique/Auto-Visio-Helper) — 根据自然语言生成可编辑的科研示意图。`★ 209 · 2026-06-05`
+- [AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit) — 从论文方法文本生成可编辑的 SVG 科研示意图，并支持在浏览器中继续编辑。`★ 4365 · 2026-07-25`
 - [CCF Figure](https://github.com/Deepshare-Official/CCF-Figure) — 根据论文内容生成发表级 AI/计算机科研配图。`★ 196 · 2026-06-15`
 - [codex-visio-paper-figure-skill](https://github.com/pengjunchi0/codex-visio-paper-figure-skill) — 将参考图重建为可编辑的 Visio 原生图。`★ 769 · 2026-08-16`
 - [paper-framework-figure-studio-pro](https://github.com/c-narcissus/paper-framework-figure-studio-pro) — 设计论文方法框架图和研究流程图。`★ 1999 · 2026-07-10`
